@@ -1,1 +1,1 @@
-Texto de ajuda sobre o projeto curso-git
+Texto de ajuda sobre o projeto curso-git MASTER
