@@ -1,2 +1,2 @@
-Texto de ajuda sobre o projeto curso-git
+Texto de ajuda sobre o projeto curso-git DESIGN_INCLUIDO_NA_MASTER
 Ajuda da branch design
